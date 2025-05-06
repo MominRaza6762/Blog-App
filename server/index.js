@@ -30,7 +30,7 @@ app.use(function(req, res, next) {
 
 
 
-const allowedOrigins = ["http://localhost:3000", "http://localhost:5173","http://localhost:5174"];
+const allowedOrigins = ["http://localhost:3000", "http://localhost:5173","http://localhost:5174", "https://blog-app-client-beryl.vercel.app/"];
 app.use(
   cors({
     origin: (origin, callback) => {
