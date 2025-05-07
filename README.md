@@ -104,5 +104,5 @@ npm run dev
 
 Here is a preview of the homepage:
 
-![Homepage Screenshot](./screenshot1.png)
+![Homepage Screenshot](./screenshots/screenshot1.png)
 
