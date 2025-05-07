@@ -102,7 +102,14 @@ npm run dev
 
 ## 📸 Screenshot
 
-Here is a preview of the homepage:
+Here is a preview of the Homepage:
 
 ![Homepage Screenshot](./screenshots/screenshot1.png)
 
+Preview of the Blog writing page:
+
+![Writing page Screenshot](./screenshots/screenshot2.png)
+
+Preview of the Blog page:
+
+![Blog page Screenshot](./screenshots/screenshot3.png)
