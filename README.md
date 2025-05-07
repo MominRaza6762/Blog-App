@@ -99,3 +99,10 @@ npm run dev
 ```
 
 ---
+
+## 📸 Screenshot
+
+Here is a preview of the homepage:
+
+![Homepage Screenshot](./screenshot1.png)
+
